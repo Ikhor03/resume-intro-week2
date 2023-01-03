@@ -1,0 +1,3 @@
+Bootsrap merupakan salah satu framework yang memudahkan programmer dalam mempercantik tampilan website. Bisa dikatakan kalau Bootsrap adalah program CSS yang sudah disusun agar bisa digunakan dengan lebih mudah.
+
+Seluruh panduan lengkap dapat didapatkan di documentasi Bootsrap yang mereka cantumkan di websitenya getbootsrap.com. disana dijelaskan bagaimana instalasinya dan component apasaja yang bisa dipakai.
