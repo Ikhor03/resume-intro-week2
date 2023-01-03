@@ -1,0 +1,15 @@
+Setelah belajar Bootsrap pada minggu pertama pembelajaran. Di minggu kedua ini kita diajarkan GIT dan GITHUB/GITLAB
+
+- GIT 
+    Salah satu Version Control System (VCS) yang dibuat untuk memudahkan programmer mengatur
+    projectnya. Manfaat akan sangat terasa juga saat berkolaborasi dengan programer lain. 
+
+    Fungsi yang paling terlihat dari GIT adalah kemampuannya menyimpan dan merekap perubahan,
+    revisi, atau update dari project yang sedang dikembangkan. Jadi progamer dapat lebih mudah
+    mengatur dan menjaga flow pekerjaan menjadi terekam dengan jelas.
+
+- GITHUB/GITLAB
+    Aplikasi GIT hanya bisa digunakan secara perseorangan alias hanya bisa menyediakan server di local host. 
+    jika ingin berkolaborasi atau membagikan program yang telah dibuat, maka Github/Gitlab ini tempatnya. 
+    disana progamer bisa saling berkolaborasi dan memposting program yang sudah dibuat ke dalam akunnya. Mungkin seperti
+    media sosialnya programer.
